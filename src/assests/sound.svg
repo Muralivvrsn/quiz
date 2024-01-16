@@ -1,0 +1,34 @@
+<svg width="35" height="35" viewBox="0 0 35 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="35" height="35" fill="#1E1E1E"/>
+<g id="Desktop - 9">
+<rect width="1440" height="1818" transform="translate(-1007 -423)" fill="#F9F9F9"/>
+<g id="Frame 44">
+<g id="Comp">
+<g id="Mask Group">
+<mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-643" y="-34" width="712" height="394">
+<rect id="Mask Layer" x="-643" y="-34" width="712" height="393.194" rx="42.5075" fill="black"/>
+</mask>
+<g mask="url(#mask0_0_1)">
+<g id="Card Front">
+<rect id="Card surface" x="-643" y="-34" width="712" height="393.194" rx="42.5075" fill="#C4C4C4"/>
+<g id="Component 50">
+<rect x="-643" y="-34" width="712" height="393.194" rx="42.5075" fill="url(#paint0_linear_0_1)"/>
+<g id="Frame">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M20.8249 7.50143V4.58258C26.5067 5.87197 30.7433 10.9445 30.7433 17.0089C30.7433 23.0733 26.5067 28.1459 20.8249 29.4353V26.5164C24.9198 25.2979 27.9094 21.5005 27.9094 17.0089C27.9094 12.5173 24.9198 8.71997 20.8249 7.50143ZM5.2388 12.7582V21.2597H10.9065L17.991 28.3443V5.67361L10.9065 12.7582H5.2388ZM24.3672 17.0089C24.3669 15.8217 24.0351 14.6582 23.4093 13.6493C22.7834 12.6405 21.8884 11.8264 20.8249 11.2988V22.7049C22.9219 21.6706 24.3672 19.5169 24.3672 17.0089Z" fill="#F5F5F5"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="91.8206" y1="-54.9539" x2="-241.799" y2="594.303" gradientUnits="userSpaceOnUse">
+<stop stop-color="#051A91"/>
+<stop offset="0.173055" stop-color="#061C93"/>
+<stop offset="0.797115" stop-color="#2284F1"/>
+<stop offset="1" stop-color="#1F80EB"/>
+</linearGradient>
+</defs>
+</svg>
